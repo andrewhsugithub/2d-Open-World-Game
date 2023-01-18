@@ -1,6 +1,6 @@
 ﻿
 
-# ReadMe - My Game Introduction
+# 2d Fighting!!
 Hello welcome to my game, you are the selected hero from your village to defend your village from monsters.
 
 
