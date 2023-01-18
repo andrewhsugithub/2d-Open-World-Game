@@ -1,7 +1,10 @@
 ﻿
 
 # 2d Fighting!!
+![village_perspective](village_perspective.JPG)
+
 Hello welcome to my game, you are the selected hero from your village to defend your village from monsters.
+
 
 
 
