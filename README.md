@@ -1,6 +1,8 @@
 ﻿
 
 # 2d Fighting!!
+It's a open-world-adventure game in 2d !
+
 ![village_perspective](village_perspective.JPG)
 
 Hello welcome to my game, you are the selected hero from your village to defend your village from monsters.
@@ -10,7 +12,7 @@ Hello welcome to my game, you are the selected hero from your village to defend 
 
 # Table of Contents
 
-- [ReadMe - My Game Introduction](#readme---my-game-introduction)
+- [My Game Introduction](#2d-fighting!!)
 - [Table of Contents](#table-of-contents)
 - [Intro](#intro)
 - [Prerequisites](#prerequisites)
